@@ -1,9 +1,15 @@
-<div id="home" align="center">
-<h1 id="menu">MENU PRINCIPAL</h1>
-<p>Descrição do projeto</p>
+<div id="home" align="left">
  
 | <a href="#pt-br">PT-BR</a> 
 | <a href="#en">EN</a> |
+</div>
+
+<div id="menu" align="center">
+<h1>MENU PRINCIPAL</h1>
+<p>Descrição do projeto</p>
+ 
+| <a href="#hello-world">HELLO WORLD</a> 
+| <a href="#título-nível-2">TÍTULO NÍVEL 2</a> |
 </div>
 
 ___
