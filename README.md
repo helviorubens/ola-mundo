@@ -1,6 +1,6 @@
 <div id="home" align="left">
  
-| <a href="#pt-br"><kbd>PT-BR</kbd></a> 
+| <a href="#pt-br"><kbd style="background-color:#cca123;">PT-BR</kbd></a> 
 | <a href="#en">EN</a> |
 </div>
 
