@@ -23,4 +23,4 @@ __Minha primeira lista *numerada*__:
    - Sub-item 1
    * Sub-item 2
 
-[voltar ao início ↑](#hello-world-!)
+[voltar ao início ↑](#hello-world)
