@@ -1,5 +1,5 @@
-<div align="center">
-<h1 id="home">MENU PRINCIPAL</h1>
+<div id="home" align="center">
+<h1 id="menu">MENU PRINCIPAL</h1>
 <p>Descrição do projeto</p>
  
 | <a href="#hello-world">HELLO WORLD</a> 
@@ -35,10 +35,10 @@ __Minha primeira lista *numerada*__:
    - Sub-item 1
    * Sub-item 2
 
-[voltar ao início ↑](#home)
+[↑ voltar ao menu](#menu)
 
 <br/>
 <div align="right">
-    <b><a href="#----">▲ back to top</a></b>
+    <b><a href="#home">▲ back to top</a></b>
 </div>
 <br/>
