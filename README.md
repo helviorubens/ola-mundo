@@ -1,4 +1,4 @@
-# Olá, mundo!
+# Hello World!
  Primeiro repositório do curso de Git e GitHub.
 
 Modificações necessárias para realizar o commit.
@@ -23,4 +23,4 @@ __Minha primeira lista *numerada*__:
    - Sub-item 1
    * Sub-item 2
 
-[voltar ao início ↑](#ola-mundo)
+[voltar ao início ↑](#hello-world-!)
