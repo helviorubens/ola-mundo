@@ -32,3 +32,9 @@ __Minha primeira lista *numerada*__:
    * Sub-item 2
 
 [voltar ao início ↑](#home)
+
+<br/>
+<div align="right">
+    <b><a href="#----">▲ back to top</a></b>
+</div>
+<br/>
