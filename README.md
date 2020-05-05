@@ -6,6 +6,8 @@
 | <a href="#título-nível-2">Título Nível 2</a> |
 </div>
 
+___
+
 ## Hello World
  Primeiro repositório do curso de Git e GitHub.
 
