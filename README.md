@@ -1,6 +1,7 @@
 <div align="center">
-<h1>MENU PRINCIPAL</h1>
-
+<h1 id="home">MENU PRINCIPAL</h1>
+<p>Descrição do projeto</p>
+ 
 | <a href="#hello-world">HELLO WORLD</a> 
 | <a href="#título-nível-2">Título Nível 2</a> |
 </div>
@@ -30,4 +31,4 @@ __Minha primeira lista *numerada*__:
    - Sub-item 1
    * Sub-item 2
 
-[voltar ao início ↑](#hello-world)
+[voltar ao início ↑](#home)
