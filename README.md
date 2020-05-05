@@ -1,7 +1,7 @@
 <div id="home" align="left">
  
-<a href="#pt-br"><kbd>PT-BR</kbd></a> 
-<a href="#en"><kbd>EN-US</kbd></a>
+| <a href="#pt-br"><b>PT-BR</b></a> 
+| <a href="#en"><b>EN-US</b></a> |
 </div>
 
 <div id="menu" align="center">
